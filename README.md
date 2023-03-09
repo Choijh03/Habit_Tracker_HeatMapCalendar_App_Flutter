@@ -36,6 +36,9 @@ It only has today's habit currently, but once you keep adding habits through the
 
 It will look very similar to github heat map image.
 
+Github heat map image sample:
+
+![image](https://user-images.githubusercontent.com/98497929/223954215-ba26df5d-56bb-44ec-831c-549a5cdb418a.png)
 
 
 
