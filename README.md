@@ -1,6 +1,6 @@
 # HeatMapCalendar_App_Flutter
 
-This is Habit Tracker with Heat map calender (similar to GitHub Calendar) Application built on Flutter 3.7
+This is Habit Tracker with Heat map calendar (similar to GitHub Calendar) Application built on Flutter 3.7
 
 It uses Flutter heatmap calendar & slidable package, and hive box database.
 
